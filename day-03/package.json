@@ -1,0 +1,19 @@
+{
+  "name": "namaste-react-day-03",
+  "version": "1.0.0",
+  "description": "Namaste React Day 3, excercises",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vikash Kumar Pandit",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.8.2"
+  }
+}
